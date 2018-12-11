@@ -1,0 +1,10 @@
+@media all and (min-width: 480px) {
+    .GetUser {
+      padding: 60px 0;
+    }
+  
+    .GetUser form {
+      margin: 0 auto;
+      max-width: 320px;
+    }
+  }
